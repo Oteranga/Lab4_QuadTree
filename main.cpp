@@ -1,4 +1,4 @@
-#include "QuadTree.h"
+#include "classes/QuadTree.h"
 
 int main(){
     Quad_tree tree(Point{100, 100});

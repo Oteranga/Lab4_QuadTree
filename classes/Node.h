@@ -27,4 +27,6 @@ struct Node{
         point = _point;
         key = value;
     }
+
+    Node(){}
 };
